@@ -1,0 +1,37 @@
+{
+  "name": "@dword-design/tester-plugin-firebase",
+  "version": "1.0.0",
+  "repository": "dword-design/tester-plugin-firebase",
+  "funding": "https://www.buymeacoffee.com/dword",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "checkUnknownFiles": "base checkUnknownFiles",
+    "commit": "base commit",
+    "dev": "base dev",
+    "lint": "base lint",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "dependencies": {
+    "@dword-design/functions": "^4.0.4"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^8.1.11",
+    "firebase-admin": "^9.2.0"
+  },
+  "peerDependencies": {
+    "firebase-admin": "^9.2.0"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

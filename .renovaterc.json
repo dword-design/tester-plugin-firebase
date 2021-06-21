@@ -1,0 +1,23 @@
+{
+  "extends": [
+    ":semanticCommits"
+  ],
+  "ignorePaths": [
+    ".github/workflows/build.yml"
+  ],
+  "labels": [
+    "maintenance"
+  ],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "packageRules": [
+    {
+      "matchPaths": [
+        "package.json"
+      ],
+      "semanticCommitType": "fix"
+    }
+  ],
+  "semanticCommitScope": null
+}
