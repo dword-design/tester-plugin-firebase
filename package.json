@@ -23,10 +23,10 @@
   },
   "devDependencies": {
     "@dword-design/base": "^8.1.11",
-    "firebase-admin": "^9.2.0"
+    "firebase-admin": "^10.0.0"
   },
   "peerDependencies": {
-    "firebase-admin": "^9.2.0"
+    "firebase-admin": "^10.0.0"
   },
   "engines": {
     "node": ">=12"
