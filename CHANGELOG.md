@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.3...v1.0.4) (2022-01-12)
+
+
+### Bug Fixes
+
+* update config files ([7da4864](https://github.com/dword-design/tester-plugin-firebase/commit/7da4864a976f4849000c9c1c9d065f60a4049c8f))
+
 ## [1.0.3](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.2...v1.0.3) (2022-01-04)
 
 
