@@ -22,7 +22,7 @@
     "@dword-design/functions": "^4.0.4"
   },
   "devDependencies": {
-    "@dword-design/base": "^8.1.11",
+    "@dword-design/base": "^9.0.0",
     "firebase-admin": "^9.2.0"
   },
   "peerDependencies": {
