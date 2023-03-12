@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.4...v1.0.5) (2023-03-12)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#51](https://github.com/dword-design/tester-plugin-firebase/issues/51)) ([e0c29c4](https://github.com/dword-design/tester-plugin-firebase/commit/e0c29c4989f820169b70b230507ad0b46719f1d0))
+
 ## [1.0.4](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.3...v1.0.4) (2022-01-12)
 
 
