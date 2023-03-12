@@ -43,7 +43,7 @@ export default tester(
           ], [self(process.env.FIREBASE_ADMIN_CONFIG |> JSON.parse)])
         `,
       )
-      await execaCommand('mocha --ui exports --require babel-register-esm index.spec.js')
+      await execaCommand('mocha --ui exports --require babel-register-esm --timeout 5000 index.spec.js')
     },
   },
   [testerPluginTmpDir()],
