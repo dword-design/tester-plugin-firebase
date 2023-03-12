@@ -1,5 +1,5 @@
 import { map, property } from '@dword-design/functions'
-import * as firebase from 'firebase-admin'
+import firebase from 'firebase-admin'
 
 export default credential => ({
   after: () => firebase.app().delete(),
@@ -11,10 +11,16 @@ export default credential => ({
     }
   },
   beforeEach: async () =>
-    firebase.auth().listUsers()
-    |> await
-    |> property('users')
-    |> map('uid')
-    |> map(uid => firebase.auth().deleteUser(uid))
-    |> Promise.all,
+    Promise.all([
+      firebase.firestore().listCollections()
+        |> await
+        |> map(collection => firebase.firestore().recursiveDelete(collection))
+        |> Promise.all,
+      firebase.auth().listUsers()
+        |> await
+        |> property('users')
+        |> map('uid')
+        |> map(uid => firebase.auth().deleteUser(uid))
+        |> Promise.all,
+    ]),
 })
