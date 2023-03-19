@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.7...v1.0.8) (2023-03-19)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v9.4.31 ([97c4510](https://github.com/dword-design/tester-plugin-firebase/commit/97c4510989ec56073967d18ef883dbe8c2b4eb08))
+
 ## [1.0.7](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.6...v1.0.7) (2023-03-18)
 
 
