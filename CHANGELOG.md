@@ -1,3 +1,11 @@
+## [1.0.14](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.13...v1.0.14) (2023-04-11)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/tester to v2.0.18 ([37b76b7](https://github.com/dword-design/tester-plugin-firebase/commit/37b76b7c104b3096758362f9001d37a15cde0416))
+* update dependency @dword-design/tester-plugin-tmp-dir to v2.1.24 ([ef2e763](https://github.com/dword-design/tester-plugin-firebase/commit/ef2e763b46dba76773623d4ca719e94fd661b136))
+
 ## [1.0.13](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.12...v1.0.13) (2023-04-10)
 
 
