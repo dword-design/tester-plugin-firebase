@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.17...v1.0.18) (2023-06-19)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/dotenv-json-extended to v2.0.23 ([679f9de](https://github.com/dword-design/tester-plugin-firebase/commit/679f9deb33c5dbc0a6d33f71ba60a7dba91b78ad))
+
 ## [1.0.17](https://github.com/dword-design/tester-plugin-firebase/compare/v1.0.16...v1.0.17) (2023-05-13)
 
 
