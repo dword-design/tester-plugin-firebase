@@ -1210,9 +1210,9 @@
     param-case "^3.0.3"
 
 "@dword-design/base-config-node@^1.6.0":
-  version "1.10.18"
-  resolved "https://registry.yarnpkg.com/@dword-design/base-config-node/-/base-config-node-1.10.18.tgz#cbe9745b45c3aceca846893609be051a1725c7d1"
-  integrity sha512-joZPRAhGsvkhn1/sTufjj1uCzw1et1TJcFaAFkKM/n2PZMeF0usMJKEr16sZTdhvKfR9h+Kd/EBK0wqr7Ulxvg==
+  version "1.10.24"
+  resolved "https://registry.yarnpkg.com/@dword-design/base-config-node/-/base-config-node-1.10.24.tgz#3306590b64538c3591f9ac3fc7469f0f4a650612"
+  integrity sha512-emDK+tevEXBHEJXxAD7niN9Mo3iugIWL/DXuOJbcwlqs4UBa6DYsvLe5J95m/s1pOml1XLTOI56O0/z2k9Y6+g==
   dependencies:
     "@babel/cli" "^7.7.5"
     "@babel/core" "^7.7.5"
@@ -1228,9 +1228,9 @@
     micromatch "^4.0.2"
 
 "@dword-design/base@^9.4.7":
-  version "9.4.31"
-  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-9.4.31.tgz#9d508e1f581799a8abf7e182ae075c74babdef88"
-  integrity sha512-eUm4J9pIWDhQgUZowZ+OMdeZPj1GttzML3YMBTUwHT+V5yotWc/QRXw6hQJK8q6qppmIMFRjq/kf8YTwJ4tutQ==
+  version "9.4.45"
+  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-9.4.45.tgz#20a1fc77f47e567c8f755bc2b53daf8a4009a54a"
+  integrity sha512-8vdeYWxfv7ygTqy58Qu1f7f1/rbaecUbjK6Y4CbHOeNLQ7Xy2xyY/6G0Ex38Tnq3A5J9mgo7JlcSiNveL1kxiw==
   dependencies:
     "@commitlint/cli" "^17.4.0"
     "@commitlint/config-conventional" "^17.4.0"
@@ -1397,9 +1397,9 @@
     "@dword-design/functions" "^4.0.7"
 
 "@dword-design/pretest@^1.0.0":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@dword-design/pretest/-/pretest-1.0.5.tgz#9ebf436041d31cd5918d77df6b9d463ae42b96e3"
-  integrity sha512-Ufv0W9CInzNHUiZIEoDdWf1jkEsgqwaWQyynm6O2RE5UD5SBB0MP+O2pPumy0uXcrmrhJPHA74yBXCHFb48Wlg==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@dword-design/pretest/-/pretest-1.0.6.tgz#6996010fb89b61d69c90aaba95dbfa353f04226d"
+  integrity sha512-Js4Tr1JCTBVJ+PLu2eXCZlPlppbv2JLwYJfPUmhjRtSWC690lLU+aRuWADfRlMU5HcSBzNofQoU2RAgWmWuHFw==
   dependencies:
     expect "^29.4.0"
     expect-mocha-image-snapshot "^3.0.1"
@@ -3544,9 +3544,9 @@ camelcase@^6.0.0, camelcase@^6.2.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001449:
-  version "1.0.30001467"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001467.tgz#1afc9c16ed61f50dd87139da87ca43a3e0051c77"
-  integrity sha512-cEdN/5e+RPikvl9AHm4uuLXxeCNq8rFsQ+lPHTfe/OtypP3WwnVVbjn+6uBV7PaFL6xUFzTh+sSCOz1rKhcO+Q==
+  version "1.0.30001468"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001468.tgz#0101837c6a4e38e6331104c33dcfb3bdf367a4b7"
+  integrity sha512-zgAo8D5kbOyUcRAgSmgyuvBkjrGk5CGYG5TYgFdpQv+ywcyEpo1LOWoG8YmoflGnh+V+UsNuKYedsoYs0hzV5A==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -4290,9 +4290,9 @@ delete-empty@^3.0.0:
     rimraf "^2.6.2"
 
 depcheck-detector-execa@^3.0.4:
-  version "3.0.11"
-  resolved "https://registry.yarnpkg.com/depcheck-detector-execa/-/depcheck-detector-execa-3.0.11.tgz#5031f18661438e27870d788298ba714fd58ff33e"
-  integrity sha512-0XqqU4QaMbo9hMcIJZ2le6td12Ssq4x0Oh4AmMT3FYThZrXvOBTPu/3w6Xtca/8X53vtczC+bKp+EUixaF3VxQ==
+  version "3.0.18"
+  resolved "https://registry.yarnpkg.com/depcheck-detector-execa/-/depcheck-detector-execa-3.0.18.tgz#4319affc8862da730cab43f546dfeac513388486"
+  integrity sha512-ttsKOobl1gajUnCCexEO/7eRqQCPiM6u/nfKnQQ5QF6vAC950qS+dFbT2dEE5g6yqwvPpLap3xAVWaa6UtUaxw==
   dependencies:
     "@dword-design/functions" "^4.0.0"
     fs-extra "^11.1.0"
@@ -4318,9 +4318,9 @@ depcheck-package-name@^3.0.0:
     tagged-template-noop "^2.1.1"
 
 depcheck-parser-babel@^3.0.1:
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/depcheck-parser-babel/-/depcheck-parser-babel-3.0.7.tgz#053115b622b451c5e7e7800fd625166feecbbc54"
-  integrity sha512-/OhHk9vRCd5BzUu1FEM3RQ5wo0ikyo7Yk6CKIUJ9CYrUQgGWAFgyTlkMQSr224nooc9TcfP9pSL/wzEbq0RCfw==
+  version "3.0.9"
+  resolved "https://registry.yarnpkg.com/depcheck-parser-babel/-/depcheck-parser-babel-3.0.9.tgz#139cc99191d5e1eca240563e6bcf7b27bfbd70f7"
+  integrity sha512-BCTZpGwDoKiOulEDa+qEpl3UE8PaRYdpIbHD3RouIOHT++iCaiUqLGff3SHhH8M6RZpOMo7G5sTUYrAIm6PJDA==
   dependencies:
     "@babel/core" "^7.7.7"
     fs-extra "^10.0.0"
@@ -5190,9 +5190,9 @@ expand-tilde@^2.0.0, expand-tilde@^2.0.2:
     homedir-polyfill "^1.0.1"
 
 expect-mocha-image-snapshot@^3.0.1:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/expect-mocha-image-snapshot/-/expect-mocha-image-snapshot-3.0.4.tgz#9cf56aef6a24f2871bc38abf2fafa5dac0cb098f"
-  integrity sha512-fNwKK4PBbibNkw4tfuszHZdtxSGmpwRQ//DP9xLUKZEQYnaXPZy9JJNCor0OJyH3N/0zVQidpCRzjpl9C/vVXw==
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/expect-mocha-image-snapshot/-/expect-mocha-image-snapshot-3.0.8.tgz#21913b8fd07187d62dfe8f97a7524b6556b6f4ee"
+  integrity sha512-ZkluuTTPQdT1SQd6BAUTFU+NBCkX3WOSuIgzjZh75R4gQnoXlQa85HAIcqBDTumLaEFHhttGF6lT+CY0/3w7WQ==
   dependencies:
     jest-image-snapshot "^4.4.0"
     jest-snapshot "^27.0.0"
@@ -9457,9 +9457,9 @@ os-tmpdir@~1.0.2:
   integrity sha512-D2FR03Vir7FIu45XBY20mTb+/ZSWB00sjU9jdQXt83gDrI4Ztz5Fs7/yy74g2N5SVQY4xY1qDr4rNddwYRVX0g==
 
 output-files@^2.0.0:
-  version "2.0.15"
-  resolved "https://registry.yarnpkg.com/output-files/-/output-files-2.0.15.tgz#f2f65b71dc1669e5be4b7229794ed922da2ed777"
-  integrity sha512-z/pNHN5ltVpOp2wvvYNVfL0HNZ1pwrGizqdNrfoDybmxOar1PQDlqQI3jGH7/7+Rd8sUsJyLmL3v48hsuIFcag==
+  version "2.0.18"
+  resolved "https://registry.yarnpkg.com/output-files/-/output-files-2.0.18.tgz#95c91b135427d73aa940de78e4f83ebd1991c96c"
+  integrity sha512-8pcuG+tfRjPt2FCG0G0JG5+zte5CmHaT6OapBx9oVQAFkicXR67zUJ3RhJ5PUe5+2R7aRZrIC2miFlUqnXXmSA==
   dependencies:
     "@dword-design/functions" "^4.0.0"
     fs-extra "^11.1.0"
@@ -9947,9 +9947,9 @@ prettier-linter-helpers@^1.0.0:
     fast-diff "^1.1.2"
 
 prettier@^2.1.1, prettier@^2.2.1:
-  version "2.8.4"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.4.tgz#34dd2595629bfbb79d344ac4a91ff948694463c3"
-  integrity sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==
+  version "2.8.5"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.5.tgz#3dd8ae1ebddc4f6aa419c9b64d8c8319a7e0d982"
+  integrity sha512-3gzuxrHbKUePRBB4ZeU08VNkUcqEHaUaouNt0m7LGP4Hti/NuB07C7PPTM/LkWqXoJYJn2McEo5+kxPNrtQkLQ==
 
 pretty-format@^26.6.2:
   version "26.6.2"
